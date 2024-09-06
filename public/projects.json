@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Conversor de Números Romanos",
+      "category": "HomePages",
+      "image": "images/project-1.png",
+      "link": "https://rochafrp.github.io/NumeroRomano/"
+
+    },
+    {
+      "id": 2,
+      "title": "Divisor Conta",
+      "category": "HomePages",
+      "image": "images/project-2.png",
+      "link": "https://rochafrp.github.io/DivisorConta/DivisorConta/"
+    },
+    {
+      "id": 3,
+      "title": "Figma App BarSplit",
+      "category": "Design",
+      "image": "images/project-3.png",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Brawlhalla",
+      "category": "Aplicativos",
+      "image": "images/project-4.png",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Figma Designer de Sobrancelhas.",
+      "category": "Design",
+      "image": "images/project-5.png",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "title": "Em Desenvolvimento",
+      "category": "Design",
+      "image": "images/project-6.png",
+      "link": "#"
+    },
+    {
+      "id": 7,
+      "title": "BarSplit Web",
+      "category": "HomePages",
+      "image": "images/project-7.png",
+      "link": "https://rochafrp.github.io/barSplitSite/"
+    },
+    {
+      "id": 8,
+      "title": "Em Desenvolvimento",
+      "category": "Aplicativos",
+      "image": "images/project-6.png",
+      "link": "#"
+    },
+    {
+      "id": 9,
+      "title": "Portólio v1.0",
+      "category": "HomePages",
+      "image": "images/project-9.png",
+      "link": "https://rochafrp.github.io/Portfolio/"
+    },
+    {
+      "id": 10,
+      "title": "Designer de Sobrancelhas",
+      "category": "HomePages",
+      "image": "images/project-10.png",
+      "link": "https://rochafrp.github.io/landingpageEstetica/"
+    }
+  ]
+  
