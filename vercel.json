@@ -1,0 +1,15 @@
+{
+    "builds": [
+      {
+        "src": "src/main.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "framework": "vite",
+    "outputDirectory": "dist",
+    "build": {
+      "env": {
+        "NODE_VERSION": "18.x"
+      }
+    }
+}
