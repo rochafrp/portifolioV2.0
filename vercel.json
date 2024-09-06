@@ -3,5 +3,6 @@
       "commands": {
         "build": "npm run build"
       }
-    }
-  }
+    },
+    "framework": "vite"
+}
